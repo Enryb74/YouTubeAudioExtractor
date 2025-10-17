@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "notes": "Versione di test dell’auto-updater — funziona! 🎉",
+  "url": "https://github.com/<tuo-username>/YouTubeAudioExtractor/releases/latest",
+  "github_release": "https://github.com/<tuo-username>/YouTubeAudioExtractor/releases/tag/v1.0.1"
+}
